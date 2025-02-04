@@ -1,0 +1,7 @@
+! name: "Charity"
+! description: "Watch #refugeesupport second highlight video https://linktr.ee/Stuff35"
+! public: true
+! author: "KarimE22"
+
+$discard
+$boost,site=gofundme.com
